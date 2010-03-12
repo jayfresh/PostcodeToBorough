@@ -1,0 +1,6 @@
+Makes use of the police API at: http://policeapi.rkh.co.uk
+
+This is an interesting problem because there is no 1:1 mapping between postcodes and London boroughs e.g. WC1 is in three boroughs.
+
+Copyright 2010 Jonathan Lister
+Licensed under the BSD license: http://www.opensource.org/licenses/bsd-license.php

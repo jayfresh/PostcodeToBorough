@@ -1,0 +1,32 @@
+barnet,http://www.met.police.uk/barnet
+bexley,http://www.bexleypccg.org/
+brent,
+bromley,http://e-voice.org.uk/bromleycommunityengagementforum/
+camden,http://www.camdencpcg.org.uk/
+city of london,
+city of westminster,http://www.westminster.gov.uk/services/policingandpublicsafety/crimeandlawenforcement/civicwatch/civicwatchprojects/civicwatchpartnership/
+croydon,http://www.croydononline.org/ccpcg/
+ealing,http://cms.met.police.uk/met/boroughs/ealing/03working_with_the_community/ealing_community_and_police_consultative_group
+enfield,http://enfieldcpp.org.uk/
+greenwich,http://e-voice.org.uk/gceb/
+hackney,http://e-voice.org.uk/hackneyceb/
+hammersmith and fulham,http://e-voice.org.uk/hammersmithandfulhamcommunitysafetyboard/
+haringey,http://www.haringeycpcg.org.uk/
+hounslow,http://www.hounslow.gov.uk/index/community_and_living/crime_prevention/police_consultative_group.htm
+islington,http://www.icsb.org.uk/
+kensington and chelsea,http://www.rbkc.gov.uk/az/az.asp?orgid=1823
+lambeth,http://www.lambethcpcg.org.uk/
+lewisham,http://e-voice.org.uk/lcpcg/
+merton,
+newham,http://www.transformnewham.com/Articles/139191/Homepage/Newham_Life/Newham_Events/Newham_Community_and.aspx
+redbridge,http://cms.redbridge.gov.uk/news_and_events/latest_news/redbridge_police_community_eng.aspx
+richmond,http://www.richmond.gov.uk/home/policing_and_public_safety/community_safety_partnership/community_and_police_partnership.htm
+southwark,http://cypdirectory.southwark.gov.uk/AtoZEntry.aspx?id=94
+tower hamlets,http://www.towerhamlets.gov.uk/lgsl/1101-1150/1133_hate_crime/1133_support_services.aspx#THpolicecommunitysafetyunit
+waltham forest,http://www1.walthamforest.gov.uk/moderngov/mgOutsideBodyDetails.asp?ID=420
+wandsworth,http://e-voice.org.uk/wpcc/
+westminster,http://cms.met.police.uk/met/boroughs/city_of_westminster/03working_with_the_community/westminster_community_and_police_consultative_group_cpcg
+hillingdon,http://www.hillingdon.gov.uk/index.jsp?articleid=7523
+havering,http://www.havering.gov.uk/index.aspx?articleid=11104
+lewisham,http://www.lewisham.gov.uk/PolicingAndPublicSafety/CrimeAndLawEnforcement/LCPCG/
+harrow,http://www.hpccg.org.uk/
